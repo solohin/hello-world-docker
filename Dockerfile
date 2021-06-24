@@ -1,4 +1,4 @@
-FROM node:14
+FROM quay.io/bitnami/node:14
 
 # Create app directory
 WORKDIR /usr/src/app
